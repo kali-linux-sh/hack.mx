@@ -18,6 +18,7 @@ Informacion:
 _licencia GNU
 
 _vercioń 0.1
+
 _apto de usar para mayores de 8 años y menores de 80 años
 
 _utiliza metasploit v4.16.10-dev para delante
