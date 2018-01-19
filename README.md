@@ -30,3 +30,5 @@ Gracias por usar nustro producto.4DM fabricando armas desde 2016
 contactarse con anonnymus100@gmail.com para mas ayuda o sugerencias
 
 4DM° 
+
+Todavía no esta terminado :v
